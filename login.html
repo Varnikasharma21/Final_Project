@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="login.css" />
+  </head>
+  <body>
+    <header>
+      <div class="nav_bar">
+        <img
+          class="logo"
+          src="https://img.freepik.com/free-vector/symbol-infinity-art-info-vector-illustration_3482-2832.jpg?w=740"
+          alt="LOGO"
+        />
+
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="#">Login</a></li>
+          <li><a href="register.html">Register</a></li>
+        </ul>
+      </div>
+    </header>
+    <div class="container-fluid">
+      <h1 class="head">Welcome Back!</h1>
+      <p class="head2">
+        To keep connected with us please login with your personal info.
+      </p>
+      <div class="container">
+        <div class="screen">
+          <div class="screen__content">
+            <form class="login">
+              <div class="login__field">
+                <i class="login__icon fas fa-user"></i>
+                <input
+                  type="text"
+                  class="login__input"
+                  id="users"
+                  placeholder="User name"
+                />
+              </div>
+              <div class="login__field">
+                <i class="login__icon fas fa-lock"></i>
+                <input
+                  type="password"
+                  class="login__input"
+                  id="password"
+                  placeholder="Password"
+                />
+              </div>
+              <button
+                class="button login__submit"
+                type="button"
+                onclick="checkUser()"
+              >
+                <span class="button__text">Log In Now</span>
+                <i class="button__icon fas fa-chevron-right"></i>
+              </button>
+              <div class="register">
+                <a href="register.html">Create an account</a>
+              </div>
+            </form>
+            <div class="social-login">
+            </div>
+          </div>
+          <div class="screen__background">
+            <span
+              class="screen__background__shape screen__background__shape4"
+            ></span>
+            <span
+              class="screen__background__shape screen__background__shape3"
+            ></span>
+            <span
+              class="screen__background__shape screen__background__shape2"
+            ></span>
+            <span
+              class="screen__background__shape screen__background__shape1"
+            ></span>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="login.js"></script>
+  </body>
+</html>
