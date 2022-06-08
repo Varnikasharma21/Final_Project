@@ -1,0 +1,28 @@
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\bin\Debug\netcoreapp2.1\Final.net.deps.json
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\bin\Debug\netcoreapp2.1\Final.net.runtimeconfig.json
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\bin\Debug\netcoreapp2.1\Final.net.runtimeconfig.dev.json
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\bin\Debug\netcoreapp2.1\Final.net.dll
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\bin\Debug\netcoreapp2.1\Final.net.pdb
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.csprojAssemblyReference.cache
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.csproj.CoreCompileInputs.cache
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.RazorAssemblyInfo.cache
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.RazorAssemblyInfo.cs
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.AssemblyInfoInputs.cache
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.AssemblyInfo.cs
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.RazorTargetAssemblyInfo.cache
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.dll
+C:\Users\varnika.sharma\source\repos\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.pdb
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.dll
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.pdb
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\bin\Debug\netcoreapp2.1\Final.net.deps.json
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\bin\Debug\netcoreapp2.1\Final.net.runtimeconfig.json
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\bin\Debug\netcoreapp2.1\Final.net.runtimeconfig.dev.json
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\bin\Debug\netcoreapp2.1\Final.net.dll
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\bin\Debug\netcoreapp2.1\Final.net.pdb
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.csprojAssemblyReference.cache
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.csproj.CoreCompileInputs.cache
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.RazorAssemblyInfo.cache
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.RazorAssemblyInfo.cs
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.AssemblyInfoInputs.cache
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.AssemblyInfo.cs
+C:\Users\varnika.sharma\Desktop\bootcamp\FullStack Project\Final.net\Final.net\obj\Debug\netcoreapp2.1\Final.net.RazorTargetAssemblyInfo.cache
